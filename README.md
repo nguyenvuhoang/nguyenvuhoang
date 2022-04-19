@@ -1,16 +1,22 @@
-### Hi there 👋
+![Anh Ben banner](https://i.ibb.co/WBhqqpx/Cover.png)
 
-<!--
-**nguyenvuhoang/nguyenvuhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anh Ben - Banking Developer, DevOps Trainer
 
-Here are some ideas to get you started:
+- Open and friendly.
+- Love to learn new things, especially things related to Banking App stacks.
+- Enjoy working with ReactJS / .Net Core / Oracle❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working <a href="https://github.com/nguyenvuhoang"><img align="left" width="auto" height="200" src="https://i.ibb.co/bvbHW4z/4884785.jpg"></a>
+
+- `DM` at JITS: [http://jits.surge.sh/](http://jits.surge.sh/)
+- `Owner` of website [https://vknight.io/](https://vknight.io/) We provide a one-stop platform for users to access the DeFi ecosystem, such as decentralized exchanges, lending protocols, on-chain governance, blockchain-based games, and cross-chain transfer on over 20 networks such as Ethereum, Binance Smart Chain, Solana, Avalanche, and more.
+
+## Projects for developers
+
+- JITS Admin page: https://github.com/nguyenvuhoang/jitsadmin
+- Blockchain web: https://github.com/nguyenvuhoang/vknighthub-project
+- Riple App API https://github.com/vuduongtp/CoreApiRipple
+
+## Projects for sharing
+
+- ReactJS folder structure: https://github.com/nguyenvuhoang/React-Folder-Structure
