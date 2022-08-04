@@ -13,7 +13,7 @@
 
 :mailbox: Reach me out!
 
-[![Twitter Badge]https://img.shields.io/twitter/follow/nguyenvuhoangz?style=social [![Mail Badge]https://img.shields.io/youtube/channel/views/UCd77wPtz6n-V0-0oUBBP18Q?style=social
+[![Twitter Badge](https://img.shields.io/twitter/follow/nguyenvuhoangz?style=social)] [![Mail Badge](https://img.shields.io/youtube/channel/views/UCd77wPtz6n-V0-0oUBBP18Q?style=social)]
 
 
 ## Projects for developers
