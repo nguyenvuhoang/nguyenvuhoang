@@ -1,4 +1,4 @@
-![Anh Ben banner](https://i.ibb.co/WBhqqpx/Cover.png)
+(https://i.ibb.co/WBhqqpx/Cover.png)
 
 
 # Anh Ben - Banking Developer, DevOps Trainer
