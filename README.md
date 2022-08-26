@@ -21,7 +21,7 @@
 
 - JITS Admin page: https://github.com/nguyenvuhoang/jitsadmin
 - Blockchain web: https://github.com/nguyenvuhoang/vknighthub-project
-- Riple App API https://github.com/vuduongtp/CoreApiRipple
+- vCoincheck web: https://github.com/nguyenvuhoang/vcoincheck-frontend
 - Plutus-Optimization https://github.com/nguyenvuhoang/plutus-optimization-v1
 
 ## Projects for sharing
